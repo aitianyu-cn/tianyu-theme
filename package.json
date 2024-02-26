@@ -1,0 +1,38 @@
+{
+    "name": "@aitianyu.cn/theme",
+    "version": "0.0.1",
+    "description": "Html theme for tianyu web shell.",
+    "main": "index.js",
+    "type": "module",
+    "files": [
+        "content/**/*.{less,css,scss,info,properties,woff2,woff,ttf,png,gif,html}",
+        "content/**/*.json",
+        "content/**/*.json",
+        "content/**/*.svg",
+        "index.cjs",
+        "index.mjs"
+    ],
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aitianyu-cn/npm-modules.git"
+    },
+    "keywords": [
+        "aitianyu.cn",
+        "theme"
+    ],
+    "author": "dev@aitianyu.cn",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aitianyu-cn/npm-modules/issues"
+    },
+    "homepage": "https://github.com/aitianyu-cn/npm-modules#readme",
+    "devDependencies": {
+        "@types/node": "^18.13.0",
+        "copyfiles": "^2.4.1",
+        "rimraf": "^4.1.2",
+        "ts-node": "^10.9.1",
+        "tsc-alias": "^1.8.2",
+        "typescript": "^4.9.5"
+    }
+}

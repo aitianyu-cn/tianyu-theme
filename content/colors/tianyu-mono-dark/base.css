@@ -1,0 +1,31 @@
+/**
+ * Tianyu Shell UI Theme
+ * Mono Theme - Dark Colors
+*/
+
+:root {
+  --ts_ui_bgc: #000000;
+  --ts_ui_content_bgc: #0d0d0d;
+  --ts_ui_dialog_mask_bgc: #ededed83;
+  --ts_ui_dialog_mask_op: 100%;
+  --ts_ui_dialog_content_bgc: #0d0d0d;
+  --ts_ui_dialog_content_sdc: #000000;
+
+  --ts_ui_blk_1: #eeeeee;
+  --ts_ui_blk_2: #cccccc;
+  --ts_ui_blk_3: #aaaaaa;
+  --ts_ui_blk_4: #888888;
+  --ts_ui_blk_5: #666666;
+  --ts_ui_blk_6: #5f5f5f;
+  --ts_ui_blk_7: #3f3f3f;
+  --ts_ui_blk_8: #000000;
+
+  --ts_ui_blk_11: #eeeeee;
+  --ts_ui_blk_12: #cccccc;
+  --ts_ui_blk_13: #aaaaaa;
+  --ts_ui_blk_14: #888888;
+  --ts_ui_blk_15: #666666;
+  --ts_ui_blk_16: #5f5f5f;
+  --ts_ui_blk_17: #3f3f3f;
+  --ts_ui_blk_18: #000000;
+}
